@@ -19,15 +19,24 @@ namespace SwitchCaseExercise
                 case "yamaha":
                     Console.WriteLine("That ain't a Harley");
                     break;
+
                 case "harley-davidson":
+
+                case "harley davidson":
+
+                case "harley":
                     Console.WriteLine("Hell yeah, brother. VROOM VROOM");
                     break;
+
                 case "indian":
                     Console.WriteLine("HAHAHAHAHAHAHAHAHA");
                     break;
                 default:
                     Console.WriteLine("Never heard of em");
                     break;
+
+
+               
 
             }
         }
