@@ -1,0 +1,12 @@
+/Users/ryangrayson/Repos/SwitchCaseExercise/SwitchCaseExercise/bin/Debug/netcoreapp3.1/SwitchCaseExercise.deps.json
+/Users/ryangrayson/Repos/SwitchCaseExercise/SwitchCaseExercise/bin/Debug/netcoreapp3.1/SwitchCaseExercise.runtimeconfig.json
+/Users/ryangrayson/Repos/SwitchCaseExercise/SwitchCaseExercise/bin/Debug/netcoreapp3.1/SwitchCaseExercise.runtimeconfig.dev.json
+/Users/ryangrayson/Repos/SwitchCaseExercise/SwitchCaseExercise/bin/Debug/netcoreapp3.1/SwitchCaseExercise.dll
+/Users/ryangrayson/Repos/SwitchCaseExercise/SwitchCaseExercise/bin/Debug/netcoreapp3.1/SwitchCaseExercise.pdb
+/Users/ryangrayson/Repos/SwitchCaseExercise/SwitchCaseExercise/obj/Debug/netcoreapp3.1/SwitchCaseExercise.csprojAssemblyReference.cache
+/Users/ryangrayson/Repos/SwitchCaseExercise/SwitchCaseExercise/obj/Debug/netcoreapp3.1/SwitchCaseExercise.AssemblyInfoInputs.cache
+/Users/ryangrayson/Repos/SwitchCaseExercise/SwitchCaseExercise/obj/Debug/netcoreapp3.1/SwitchCaseExercise.AssemblyInfo.cs
+/Users/ryangrayson/Repos/SwitchCaseExercise/SwitchCaseExercise/obj/Debug/netcoreapp3.1/SwitchCaseExercise.csproj.CoreCompileInputs.cache
+/Users/ryangrayson/Repos/SwitchCaseExercise/SwitchCaseExercise/obj/Debug/netcoreapp3.1/SwitchCaseExercise.dll
+/Users/ryangrayson/Repos/SwitchCaseExercise/SwitchCaseExercise/obj/Debug/netcoreapp3.1/SwitchCaseExercise.pdb
+/Users/ryangrayson/Repos/SwitchCaseExercise/SwitchCaseExercise/obj/Debug/netcoreapp3.1/SwitchCaseExercise.genruntimeconfig.cache
